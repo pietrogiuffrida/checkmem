@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: sample
+Version: 0.0.4
+Summary: Manage a list of names with several properties and (overlapping) order criteria
+Home-page: https://github.com/pietrogiuffrida/checkmem/
+Author: Pietro Giuffrida
+Author-email: pietro.giuffri@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
